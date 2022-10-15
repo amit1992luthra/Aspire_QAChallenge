@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30883" started-at="2022-10-15T16:14:42Z" finished-at="2022-10-15T16:15:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30883" started-at="2022-10-15T16:14:42Z" finished-at="2022-10-15T16:15:13Z">
+      <class name="aspire.QAChallenge.Testcases">
+        <test-method status="PASS" signature="init()[pri:0, instance:aspire.QAChallenge.Testcases@357246de]" name="init" is-config="true" duration-ms="4477" started-at="2022-10-15T21:44:42Z" finished-at="2022-10-15T21:44:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:aspire.QAChallenge.Testcases@357246de]" name="testcase1" duration-ms="25744" started-at="2022-10-15T21:44:47Z" finished-at="2022-10-15T21:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:aspire.QAChallenge.Testcases@357246de]" name="quit" is-config="true" duration-ms="649" started-at="2022-10-15T21:45:13Z" finished-at="2022-10-15T21:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- aspire.QAChallenge.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
